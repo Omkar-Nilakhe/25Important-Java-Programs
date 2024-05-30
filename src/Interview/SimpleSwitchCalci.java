@@ -42,6 +42,7 @@ public class SimpleSwitchCalci {
 				System.out.println("entered symbol is invalid");
 
 		}
+		sc.close();
 		System.out.println(res);
 
 	}
