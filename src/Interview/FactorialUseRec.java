@@ -25,10 +25,10 @@ public class FactorialUseRec {
 		int num = sc.nextInt();
 
 		int res = recursionFact(num);
-		System.out.println("factorial of entered number is :" + res);
-      
+		System.out.println("factorial of entered number is : " + res);
+
 		sc.close();
+
 	}
-	
 
 }
