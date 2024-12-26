@@ -1,2 +1,2 @@
-Programs in interview package are resent in the src folder. <br>
+Programs in interview package are present in the src folder. <br>
 bin/interview is the class file folder.
